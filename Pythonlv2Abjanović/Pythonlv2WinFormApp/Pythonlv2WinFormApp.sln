@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pythonlv2WinFormApp", "Pythonlv2WinFormApp\Pythonlv2WinFormApp.csproj", "{5B191B37-1187-43FC-9E2A-DE89C6F2F5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B191B37-1187-43FC-9E2A-DE89C6F2F5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B191B37-1187-43FC-9E2A-DE89C6F2F5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B191B37-1187-43FC-9E2A-DE89C6F2F5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B191B37-1187-43FC-9E2A-DE89C6F2F5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631FF17E-D12E-43EC-9386-33429C1F9723}
+	EndGlobalSection
+EndGlobal
